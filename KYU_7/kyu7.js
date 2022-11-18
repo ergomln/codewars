@@ -21,9 +21,3 @@ The binary number returned should be a string.
 // function decimalToBinarie (a,b){
 //     return (a+b).toSting(2);
 // }
-
-
-const friendsList = ['noodles', 'sauce', 'mozzarella', 'kampot pepper'];
-let secretIngredient = friendsList.reverse()[0];
-
-console.log(secretIngredient)
